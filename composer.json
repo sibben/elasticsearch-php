@@ -60,5 +60,10 @@
     "phpstan": [
       "phpstan analyse src --level 2 --no-progress"
     ]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-patch-1": "7.x-dev"
+    }
   }
 }
